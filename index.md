@@ -1,37 +1,116 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.cSilverProgramGH/https-192.168.0.100-8080-index.html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <head>
 
-### Markdown
+        <title> SilverProgramBM Website </title>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        <link rel="stylesheet" type="text/css" href="style.css">
 
-```markdown
-Syntax highlighted code block
+    </head>
 
-# Header 1
-## Header 2
-### Header 3
+    <body>
 
-- Bulleted
-- List
+        <section class="container"> 
 
-1. Numbered
-2. List
+        <div class="half-width">
 
-**Bold** and _Italic_ and `Code` text
+            <h1> Welcome to <span class="purple-color">SilverProgramBM</span> world </h1>
 
-[Link](url) and ![Image](src)
-```
+            <h3> Beginner programmer, Web- and gamedesigner </h3>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+            <p> I'm Marci and I am a  14 yo kid from Hungary. 🇭🇺 I like to program, and want to be a payed, successful programmer! 🤖 Also I like to draw so I want to be an artist as well, ✍️ but it's not that important. And I love to play games and make games! I do have a fav sport, it's basketball! And last, but not least I am a beginner pianist. 😎 </p>
+
+            <a class="primary-btn" href="https://m.facebook.com/profile.php?id=100050225718199&ref=content_filter"> Hire Me </a>
+
+        </div>
+
+        <div class="half-width">
+
+             <img class="side-img" src="images/profile2.jpeg" alt="">
+
+        </div>
+
+        </section>
+
+        <section class="container">
+
+            <div class="half-width pic">
+
+                <img class="sid-img" src="images/programmer.jpeg">
+
+            </div>
+
+            <div class="half-width dream">
+
+                <h2> BIG DREAM </h2>
+
+                <h4> Become a web and game developer </h4>
+
+                <p> I already learned the basic HTML and CSS. I can build any simple website. My goal is to build 3 websites and learn advanced topics. After that I want to learn gamedesign and become the best gamedeveloper in the whole, entire world! I love to come up with ideas and make them happen, just for fun, and for money...maybe. I would love to design and program my games with my friends! </p>
+
+                <a class="primary-btn" href="https://mailto: marci20060505@gmail.com"> Email: marci20060505@gmail.com </a>
+
+            </div>
+
+        </section>
+
+        <section class="container experiences">
+
+            <h2> Experience </h2>
+
+            <div class="experience-item">
+
+                <h3> Full Stack Web Developer </h3>
+
+                <p class="purple-color"> 2020 - Present | Pro Level Developer </p>
+
+                <p> I am the master of HTML, CSS and JavaScript. I know everything needed to make a website function efficiently. I didn't stop with the web. I went beyond with the most popular JavaScript framework called Vue JS. I even know the deployment, server and security. I will give you 100% web solution. </p>
+
+            </div>
+
+            <div class="experience-item">
+
+                <h3> Baby Web Developer </h3>
+
+                <p class="purple-color"> 2019 - 2020 | Programming Hero (Remote) </p>
+
+                <p> They didn't offer me a job. But I made myself as a remote web developer. I made their website and showed it to them. They liked it. And uploaded the content. It was fun working at Programming Hero. </p>
+
+            </div>
+
+        </section>
+
+    </body>
+
+    <footer>
+
+     <p> © SilverProgramBM 2020, a Programming Hero. </p>
+
+</footer>
+
+</html>
+
+
+#(https://github.cSilverProgramGH/https-192.168.0.100-8080-#index.html/edit/gh-pages/index.md)
+
+#Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the #content in your Markdown files.
+
+
+
+
+
+
+
+
+
+
+
 
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SilverProgramGH/https-192.168.0.100-8080-index.html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#(https://github.com/SilverProgramGH/https-192.168.0.100-8080-#index.html/settings)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# marci20060505@gmail.com
